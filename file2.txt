@@ -1,3 +1,4 @@
 Texto da file2
 Insiro mais texto aqui!
 E continuo a escrever o meu texto.
+Nova linha.
