@@ -1,0 +1,4 @@
+# ignore all latex files
+*.tex
+# ignore all emacs backup files
+*~
